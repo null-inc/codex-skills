@@ -1,5 +1,5 @@
 ---
-name: context
+name: summarize
 description: Distill the current conversation into the minimum context required for future reasoning.
 argument-hint: "What will the next session be about?"
 disable-model-invocation: true

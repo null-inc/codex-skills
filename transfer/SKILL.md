@@ -1,5 +1,5 @@
 ---
-name: handoff
+name: transfer
 description: Transfer the current project state to another agent.
 argument-hint: "What should the next agent focus on?"
 disable-model-invocation: true
