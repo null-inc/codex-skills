@@ -13,7 +13,3 @@ Interview the user to refine a project idea before producing a project plan.
 ### `/transfer`
 
 Transfer the current project state so another agent can continue working with minimal additional context.
-
-### `/summarize`
-
-Distill the current conversation into the minimum context required for future reasoning.
